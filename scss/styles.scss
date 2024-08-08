@@ -1,0 +1,6 @@
+@use 'components/index' as *;
+@use 'global/index' as *;
+@use 'utility/index' as *;
+
+//! @import must come after @use
+@import 'base/general';
